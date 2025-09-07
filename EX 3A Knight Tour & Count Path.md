@@ -1,5 +1,5 @@
 # EX 3A Knight Tour & Count Path
-## DATE:
+
 ## AIM:
 To write a Python program to solve the Knight’s Tour Problem using Warnsdorff’s heuristic, where the knight must visit every square of the chessboard exactly once.
 
